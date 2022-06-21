@@ -1,1 +1,2 @@
 welcome to git hub
+done all work in file 
